@@ -10,3 +10,5 @@ Python 笔记
     
     magic_method
     syntax_and_pylint
+    py2py3
+    packages/index

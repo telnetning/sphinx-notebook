@@ -3,7 +3,7 @@ syntax_and_pylint
 
 容易用弯的语法？
 --------------
-这 tm 到底是 bug 还是 feature？
+这到底是 bug 还是 feature？
 
 静态检查
 ----------------
